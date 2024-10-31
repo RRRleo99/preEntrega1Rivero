@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apolo</title>
+    <link rel="stylesheet" href="Estilos.css"> 
+    <link rel="icon" href="logoApolo.jpg">
+   
+</head>
+<body>
+    <header>
+        <img src="logoApolo.jpg" width="100" height="100" alt="logo apolo"/>
+        <ul>
+            <li><a href="Index.html">Inicio</li>
+            <li><a href="Medias.html">Medias</li>
+            <li><a href="Joyas.html">Joyas</li>
+            <li><a href="Perfumes.html">Perfumes</li>
+            <li><a href="Zapatillas.html">Zapatillas</li>
+        </ul>
+    </header>
+<main>
+    <section class="Presentacion">
+        <h1>Bienvenidos a nuestra web "Apolo"</h1>
+        <p>Since 2024</p>
+
+    </section>
+
+    <section class="Nostros">
+        <h2>Acerca de nosotros</h2>
+        <p>Los accesorios son los signos de exclamación de un beun oufit</p>
+    </section>
+
+    <section class="Contactos">
+
+    </section>
+</main>
+
+    <footer>
+        
+    </footer>
+    
+</body>
+</html>
